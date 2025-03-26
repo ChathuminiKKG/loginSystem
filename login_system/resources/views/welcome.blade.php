@@ -57,7 +57,7 @@
 
         .login-box {
             position: absolute;
-            width: 300px;
+            width: 400px;
         }
 
         form {
